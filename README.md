@@ -1,3 +1,5 @@
+This repo was forked from https://github.com/lihaoyun6/FlashVSR_plus.git
+
 # ⚡ FlashVSR+
 
 **Optimized inference pipeline based on [FlashVSR](https://github.com/OpenImagingLab/FlashVSR) project**
